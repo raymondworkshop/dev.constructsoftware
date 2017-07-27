@@ -6,7 +6,7 @@
 #### reference
 * **[Principles of Software Construction](https://www.cs.cmu.edu/~ckaestne/15214/s2017/syllabus.html)**
 
-*[Java Programming: Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles/home/welcome)
+* [Java Programming: Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles/home/welcome)
 
 * [MITx: 6.005.2x Advanced Software Construction in Java](https://courses.edx.org/courses/course-v1:MITx+6.005.2x+1T2017/info)
 

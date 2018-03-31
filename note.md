@@ -16,12 +16,25 @@
   
 #### Software degisn - good design follows a process
   * design class
+    - use interfaces to define APIs
     - modularity -> Information hiding
 
   * design (sub)systems
     - 
   
   * think before coding 
+
+#### Java
+  * Static Analysis 
+    - Compiler ensures **types** are correct 
+  * Proofs (Formal verification) 
+    - **mathematically prove code** matches its specification 
+  *  Testing 
+  *  
+  *  Write tests based on the **specification**  
+    - Think about testing when writing code 
+
+    - Test-driven development -> Writing tests before you write the code 
 
 #### concurrent and distributed software 
 

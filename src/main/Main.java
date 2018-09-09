@@ -1,6 +1,7 @@
+package main;
 // the client to use interface
 //import java.util.*;
-import org.junit.Test;
+//import org.junit.Test;
 
 public class Main{
     public static void main(String[] args){

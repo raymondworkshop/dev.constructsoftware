@@ -1,3 +1,4 @@
+package main;
 // Class delivers/implements on expectations
 
 public class Dog implements Animal {

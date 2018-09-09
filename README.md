@@ -29,7 +29,7 @@
 * src
 
 #### reference
-* **[CMU-Principles of Software Construction](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/)**
+* **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-spring/)**
 * **[MIT-6.033 Spring 2018-principles of computer system design]**(hhttp://web.mit.edu/6.033/www/index.shtml)
 * **[Internet-scale Distributed Systems](https://www.cs.tufts.edu/comp/117/)**
 * [Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)

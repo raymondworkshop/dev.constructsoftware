@@ -16,8 +16,11 @@
   
 #### Software degisn - good design follows a process
   * design class
-    - use interfaces to define APIs
-    - modularity -> Information hiding
+    - **Interface-based designs** handle change well -> APIs -> flexible 
+    - **Information hiding** -> modularity
+    - Exceptions -> robust 
+
+    - todo -> exercise 
 
   * design (sub)systems
     - 

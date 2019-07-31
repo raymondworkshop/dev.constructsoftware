@@ -7,7 +7,7 @@
 #### reference
 * **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)**
 * **[Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)** 
-* * [Sp2016-6.005: Software Construction](http://web.mit.edu/6.031/www/sp19/) 
+* **[Sp2016-6.005: Software Construction](http://web.mit.edu/6.031/www/sp19/)**  
 *  
 * [Internet-scale Distributed Systems](https://www.cs.tufts.edu/comp/117/) 
 * 

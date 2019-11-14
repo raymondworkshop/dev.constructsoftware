@@ -6,7 +6,7 @@
 
 #### reference
 * **[CS110: Principles of Computer Systems](http://web.stanford.edu/class/archive/cs/cs110/cs110.1202/templates/calendar)**
-* **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)**
+* **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2019-fall/index.html#schedule)**
 * **[Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)** 
 * **[Sp2016-6.005: Software Construction](http://web.mit.edu/6.031/www/sp19/)**  
 *  

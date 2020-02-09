@@ -7,6 +7,7 @@
 #### reference
 * **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2019-fall/index.html#schedule)**
 * **[CMU-17-313-Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/15313/2018/index.html#schedule)**
+* **[Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/home/welcome)**
 * 
 * **[CS110: Principles of Computer Systems](http://web.stanford.edu/class/archive/cs/cs110/cs110.1202/templates/calendar)**
 * **[Computer Systems - A programmer's Perspective](http://www.cs.cmu.edu/~213/schedule.html)** 

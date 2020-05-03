@@ -76,11 +76,9 @@ abstract: "[updating] Notes on the Softwre Architecutres"
 
 #### reference
 * **[Sp2016-6.005: Software Construction](http://web.mit.edu/6.031/www/sp19/)**  
+* [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design/home/welcome)
 * **[CMU-Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2019-fall/index.html#schedule)**
-
 *  
-
-* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 * **[CMU-17-313-Foundations of Software Engineering](http://www.cs.cmu.edu/~ckaestne/15313/2018/index.html#schedule)**
 * **[Introduction to Software Product Management](https://www.coursera.org/learn/introduction-to-software-product-management/home/welcome)**
 * 
